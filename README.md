@@ -59,6 +59,27 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+
+## USES ##
+
+## Sebelum memulai Jangan Lupa
+
+### Back End Elearning
+
+Clone project :
+
+```cmd
+git clone https://github.com/GENDHUT/backEnd-Elearning
+```
+
+Jangan Lupa Instal Dependency
+```cmd
+npm install
+```
+
+Jangan Lupa Mengganti example.env menjadi .env
+
+
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
