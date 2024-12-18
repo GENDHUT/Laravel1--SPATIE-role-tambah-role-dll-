@@ -69,7 +69,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 Clone project :
 
 ```cmd
-git clone https://github.com/GENDHUT/backEnd-Elearning
+git clone https://github.com/GENDHUT/Laravel1--SPATIE-role-tambah-role-dll-.git
 ```
 
 Jangan Lupa Instal Dependency
